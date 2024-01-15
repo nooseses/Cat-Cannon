@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cat Roulette")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5ae07d5d3591df905c233f6d09c9d073c552ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cat Roulette")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cat Roulette")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

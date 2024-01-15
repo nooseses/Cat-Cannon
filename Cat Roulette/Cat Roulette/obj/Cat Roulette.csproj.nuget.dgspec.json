@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jetw3\\Downloads\\School\\Scripting\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj": {}
+    "C:\\Users\\jetw3\\Documents\\Githubbles\\Cat-Cannon\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jetw3\\Downloads\\School\\Scripting\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj": {
+    "C:\\Users\\jetw3\\Documents\\Githubbles\\Cat-Cannon\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jetw3\\Downloads\\School\\Scripting\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj",
+        "projectUniqueName": "C:\\Users\\jetw3\\Documents\\Githubbles\\Cat-Cannon\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj",
         "projectName": "Cat Roulette",
-        "projectPath": "C:\\Users\\jetw3\\Downloads\\School\\Scripting\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj",
+        "projectPath": "C:\\Users\\jetw3\\Documents\\Githubbles\\Cat-Cannon\\Cat Roulette\\Cat Roulette\\Cat Roulette.csproj",
         "packagesPath": "C:\\Users\\jetw3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jetw3\\Downloads\\School\\Scripting\\Cat Roulette\\Cat Roulette\\obj\\",
+        "outputPath": "C:\\Users\\jetw3\\Documents\\Githubbles\\Cat-Cannon\\Cat Roulette\\Cat Roulette\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jetw3\\AppData\\Roaming\\NuGet\\NuGet.Config",
